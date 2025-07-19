@@ -1,5 +1,7 @@
 # AI and Cyber security
 
+## Cyber Fusion '25
+
 by Loshana Aloka for ISACA NSBM Student Chapter
 
 The slides can be found here: [slides.md](slides.md)

@@ -13,6 +13,8 @@ theme: night
 
 # AI and Cyber Security
 
+## Cyber Fusion '25
+
 by Loshana Aloka - Technical Support Engineer <br>
 with NSBM ISACA Student Chapter
 
